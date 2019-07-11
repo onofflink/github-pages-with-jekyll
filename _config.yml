@@ -1,14 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: My daily activities in a nutshell
+author: tonylee
+email: tonylee@onofflink.co.kr
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ 환영합니다. 대표님, & 권팀장님.
+ 오늘 하루의 힘들었던 짐은 여기에 모두 벗어 놓으시고
+ 내일 걱정도 묶어 두시고 가시면 깨끗하게 청소 해 놓겠습니다.
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: aiegoo
+github_username:  onofflink
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
