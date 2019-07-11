@@ -1,4 +1,4 @@
-# Welcome to my blog
+# Welcome to my blog test
 # Wednesday, July 10, 2019
 - MEMO: successfully upgarded to VIM 8, see the procedure above
 - MEMO: When the going gets tough, the tough get going. If you are going through hell, keep going.
